@@ -20,6 +20,12 @@ I wanted to have a local system that will collect papers. I got a little bit car
 #  Why share this ? 
 Because I believe anyone can adjust the code and make something cool with it. Also I believe that if you are a student, or just very involved in cybersecurity, that this project might be a nice asset to have. Anyhow. Enjoy and please do share or mention ThreatIntelligenceLab.com if you liked this project. 
 
+# How does the FIRST search field work? 
+- You have to provide a google dork to get the best results. Do something like this:
+- intext:'cybersecurity guide' after:'2023'
+- intext:'pentest guide' after:'2023'
+- intext:'cyberwar paper' after:'2023'
+
 Cheers, 
 Reza Rafati 
 Founder Threat Intelligence Lab 
