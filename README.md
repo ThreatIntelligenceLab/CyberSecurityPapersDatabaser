@@ -13,3 +13,13 @@ This cybersecurity Papers Database Tool is a project developed by [ThreatIntelli
 - https://github.com/ThreatIntelligenceLab/CyberSecurityPapersDatabaser/blob/main/poc_video_1.mp4
 # Follow
 - Follow us at LinkedIn https://www.linkedin.com/company/threat-intelligence-lab/
+
+# How it started
+I wanted to have a local system that will collect papers. I got a little bit carried away. So I ended up building a PoC interface for a system that collects papers for me from the web. It currently only uses Google. There is no installation guide. You most likely will be prompted by Python to install some required dependencies. It all speaks for itself. 
+
+#  Why share this ? 
+Because I believe anyone can adjust the code and make something cool with it. Also I believe that if you are a student, or just very involved in cybersecurity, that this project might be a nice asset to have. Anyhow. Enjoy and please do share or mention ThreatIntelligenceLab.com if you liked this project. 
+
+Cheers, 
+Reza Rafati 
+Founder Threat Intelligence Lab 
