@@ -8,3 +8,8 @@ This cybersecurity Papers Database Tool is a project developed by [ThreatIntelli
 - Web Interface: A user-friendly web interface that allows users to interact with the tool, submit search queries, and download papers.
 # How It Works
 - The tool performs automated searches to find and download papers, which are then stored in a database along with relevant metadata. Users can interact with the system through a web interface to download new papers, search the existing database, or view statistics about the downloads.
+# View
+- Watch the video to get a view on how this project works and looks like.
+- https://github.com/ThreatIntelligenceLab/CyberSecurityPapersDatabaser/blob/main/poc_video_1.mp4
+# Follow
+- Follow us at LinkedIn https://www.linkedin.com/company/threat-intelligence-lab/
